@@ -9,12 +9,14 @@ Word Embeddings: Loading GloVe 100D embeddings to convert text into vectors
 Visualization: Text length distribution and unique character analysis using Matplotlib & Seaborn
 Machine Learning Model: Support Vector Machine (SVM) for sentiment classification
 
-Installation
-Clone the repository:
-git clone <https://github.com/Mahak001/Sentiment-Analysis>
-cd <repo-folder-name>
+## Installation
 
-Install dependencies:
+Clone the repository:  
+```bash
+git clone https://github.com/Mahak001/Sentiment-Analysis
+cd Sentiment-Analysis
+
+##Install dependencies:
 pip install -r requirements.txt
 
 
