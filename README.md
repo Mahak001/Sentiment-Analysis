@@ -1,4 +1,4 @@
-##**Sentiment Analysis with NLP and Machine Learning**
+**Sentiment Analysis with NLP and Machine Learning**
 This project performs sentiment analysis on textual data using natural language processing (NLP) techniques and machine learning models. It includes text preprocessing, spell correction, tokenization, lemmatization, and word embedding using GloVe embeddings.
 
 Key Features
